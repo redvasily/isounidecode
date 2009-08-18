@@ -1,0 +1,3 @@
+Author of isounidecode Python code is Vasily Sulatskov <redvasily@gmail.com>
+
+Conversion tables taken from Perl Text::Unidecode by Sean M. Burke <sburke@cpan.org> 
