@@ -1,6 +1,6 @@
 # -*- coding: utf8 -*-
 
-from codes import codes
+from .codes import codes
 
 
 def build_8859_translation(codes):
