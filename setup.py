@@ -25,12 +25,12 @@ for dirpath, dirnames, filenames in os.walk(package):
            data_files.append(os.path.join(prefix, f))
 
 setup(name='isounidecode',
-    version='0.2',
+    version='0.3',
     description='Conversion and transliteration of unicode into ascii or iso-8859-1',
     author='Vasily Sulatskov',
     author_email='redvasily@gmail.com',
-    url='http://github.com/redvasily/isounidecode/tree/master',
-    download_url='http://cloud.github.com/downloads/redvasily/isounidecode/isounidecode-0.2.tar.gz',
+    url='http://github.com/redvasily/isounidecode',
+    download_url='http://cloud.github.com/downloads/redvasily/isounidecode/isounidecode-0.3.tar.gz',
     package_dir={
         package: package,
     },
