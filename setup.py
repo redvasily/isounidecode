@@ -30,7 +30,7 @@ setup(name='isounidecode',
     author='Vasily Sulatskov',
     author_email='redvasily@gmail.com',
     url='http://github.com/redvasily/isounidecode',
-    download_url='http://cloud.github.com/downloads/redvasily/isounidecode/isounidecode-0.3.tar.gz',
+    download_url='https://github.com/redvasily/isounidecode/releases/download/0.3/isounidecode-0.3.tar.gz',
     package_dir={
         package: package,
     },
